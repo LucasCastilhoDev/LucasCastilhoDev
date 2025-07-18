@@ -14,3 +14,6 @@
 
 
 -  Como me encontrar: [LinkedIn](https://www.linkedin.com/in/lucas-a-castilho/)
+
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_WAKATIME_USER&layout=compact)](...)
