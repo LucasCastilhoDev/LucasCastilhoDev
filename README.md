@@ -2,7 +2,6 @@
 
 Olá! Sou o Lucas Castilho, um Front‑End Developer focado em criar experiências web elegantes, responsivas e acessíveis.
 
-## •  Habilidades
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,vscode)](https://skillicons.dev)
 
 ## •  Linguagens mais usadas
