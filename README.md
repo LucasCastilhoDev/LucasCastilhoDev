@@ -2,7 +2,7 @@
 
 ## Front-End Developer | Criando experiências web modernas e acessíveis
 
-Desenvolvedor Front-End com experiência em **React** e **JavaScript**, focado em construir interfaces responsivas e acessíveis. Atualmente contribuindo para o desenvolvimento do **SoulCode Studio**, plataforma que conecta profissionais de tecnologia ao mercado.
+Desenvolvedor Front-End com experiência em **React** e **JavaScript**, focado em construir interfaces responsivas e acessíveis. Atualmente contribuindo para o desenvolvimento do **SoulCode Studio**, plataforma que conecta profissionais de tecnologia ao mercado. Contribuí para o desenvolvimento do SoulCode Studio, plataforma que conecta profissionais de tecnologia ao mercado.
 
 Com bagagem em ambientes corporativos de TI, trago uma visão prática de resolução de problemas e trabalho em equipe para o desenvolvimento de software.
 
@@ -22,7 +22,7 @@ Com bagagem em ambientes corporativos de TI, trago uma visão prática de resolu
 
 ## Projetos em Destaque
 
-### 🎨 [SoulCode Studio](https://studio.soulcode.com/)
+###  [SoulCode Studio](https://studio.soulcode.com/)
 **Desenvolvedor Front-End** | React • TypeScript • Tailwind CSS
 
 Plataforma da Soulcode Academy que conecta ex-alunos ao mercado de tecnologia.
@@ -32,7 +32,7 @@ Plataforma da Soulcode Academy que conecta ex-alunos ao mercado de tecnologia.
 
 ---
 
-### 🦁 [Animais Fantásticos](https://lucascastilhodev.github.io/animaisFantasticos/)
+###  [Animais Fantásticos](https://lucascastilhodev.github.io/animaisFantasticos/)
 **Projeto Pessoal** | JavaScript • HTML5 • CSS3
 
 Single Page Application com funcionalidades interativas.
@@ -44,7 +44,7 @@ Single Page Application com funcionalidades interativas.
 
 ---
 
-### 🚴 [Bikecraft](https://lucascastilhodev.github.io/bikcraft/)
+###  [Bikecraft](https://lucascastilhodev.github.io/bikcraft/)
 **Projeto Pessoal** | HTML5 • CSS3 • JavaScript
 
 Landing page de E-commerce responsivo com foco em acessibilidade.
