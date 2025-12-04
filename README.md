@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Lucas Castilho
+#  Olá! Eu sou Lucas Castilho
 
 ## Front-End Developer | Criando experiências web modernas e acessíveis
 
@@ -8,7 +8,7 @@ Com bagagem em ambientes corporativos de TI, trago uma visão prática de resolu
 
 ---
 
-## 🚀 Tecnologias que Domino
+## Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -20,7 +20,7 @@ Com bagagem em ambientes corporativos de TI, trago uma visão prática de resolu
 
 ---
 
-## 💼 Projetos em Destaque
+## Projetos em Destaque
 
 ### 🎨 [SoulCode Studio](https://studio.soulcode.com/)
 **Desenvolvedor Front-End** | React • TypeScript • Tailwind CSS
